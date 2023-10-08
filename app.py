@@ -48,4 +48,4 @@ async def stop(ctx):
 
  
     
-bot.run('MTE1MjY0ODMxODI1ODc4NjQxNA.GbMjss.WLWEtuJ_lGmRgQ6cBW8pQzIllWTkve0YcW3Cds')
+bot.run('ха лох')
